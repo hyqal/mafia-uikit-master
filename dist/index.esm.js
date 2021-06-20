@@ -2595,8 +2595,8 @@ var UserBlock = function (_a) {
 var BuySbear = function (_a) {
    
     return (React.createElement(Button, { size: "sm",marginRight:"10px", onClick: function () {
-             window.location.href = "https://exchange.ybearswap.finance/#/swap?outputCurrency=0xdEC858d5ee93568CE4eA5bbf9169ceA23d2dE305";
-        } }, "Buy SBEAR"));
+             window.location.href = "https://exchange.pancakeswap.finance";
+        } }, "Buy MAFIA"));
 };
 
 var Icon$19 = function (props) {
@@ -2800,7 +2800,7 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#39e1ef",
+    primary: "linear-gradient(120deg, #39e1ef, #ff1a78)",
     primaryBright: "#39e1ef",
     primaryDark: "#39e1ef",
     secondary: "#0e0c0c",
