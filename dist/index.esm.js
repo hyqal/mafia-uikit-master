@@ -2595,7 +2595,7 @@ var UserBlock = function (_a) {
 var BuySbear = function (_a) {
    
     return (React.createElement(Button, { size: "sm",marginRight:"10px", onClick: function () {
-             window.location.href = "https://exchange.pancakeswap.finance";
+             window.location.href = "https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x4deC35b2cCcDBDbEF4910ab13724C2BaD8fA9f98";
         } }, "Buy MAFIA"));
 };
 
