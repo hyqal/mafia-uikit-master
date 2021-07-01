@@ -96,7 +96,7 @@ export const links = [
  
       {
         label: "Github",
-        href: "https://github.com/",
+        href: "https://github.com/MafiaSwap",
       },
        
     ],
@@ -110,7 +110,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/ybearfinance",
+        href: "http://t.me/MafiaSwap",
       },
  
     ],
@@ -118,7 +118,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://Twitter.com/YieldBear",
+    href: "https://Twitter.com/MafiaSwap",
   },
  
 ];
