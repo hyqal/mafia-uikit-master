@@ -2154,43 +2154,26 @@ var socials = [
 	{
         label: "Github",
         icon: "IconGithub",
-        href: "https://github.com/sbear-finance",
+        href: "https://github.com/MafiaSwap",
     },
 	{
         label: "Medium",
         icon: "IconMedium",
-        href: "https://medium.com/@ybearfinance",
+        href: "https://medium.com/MafiaSwap",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/YieldBear",
+        href: "https://twitter.com/MafiaSwap",
     },
 	{
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
             {
-                label: "England",
-                href: "http://t.me/ybearfinance",
-            },
-			{
-                label: "Bangladesh",
-                href: "http://t.me/ybearfinance_bangladesh",
-            },
-			{
-                label: "France",
-                href: "http://t.me/ybearfinancefr",
-            },
-			{
-                label: "India",
-                href: "http://t.me/ybearfinance_India",
-            },
-			{
-                label: "Announcements",
-                href: "https://t.me/ybearchannel",
-            },
-			
+                label: "English",
+                href: "http://t.me/MafiaSwap",
+            },			
         ],
     }
 	
