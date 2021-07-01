@@ -2130,15 +2130,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/",
-            },
-            {
-                label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
-            },
-            {
-                label: "Blog",
-                href: "https://goosefinance.medium.com/",
+                href: "https://github.com/MafiaSwap",
             },
         ],
     },
@@ -2150,7 +2142,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "http://t.me/ybearfinance",
+                href: "http://t.me/MafiaSwap",
             },
             
         ],
@@ -2158,7 +2150,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://Twitter.com/YieldBear",
+        href: "https://Twitter.com/MafiaSwap",
     },
  
 ];
